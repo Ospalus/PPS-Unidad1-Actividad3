@@ -10,7 +10,9 @@ Las pruebas de software se dividen en diferentes tipos, cada una enfocada en un 
 
 Este proceso de pruebas se integra en el Modelo en V, un enfoque que relaciona la verificación y la validación con cada fase del desarrollo del software.
 
-  ![1](Imagenes\1.jpg)
+![1](Imagenes\4.png)
+
+
 
 ### Herramientas de pruebas en Python
 
