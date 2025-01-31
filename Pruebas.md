@@ -11,7 +11,7 @@ Las pruebas de software se dividen en diferentes tipos, cada una enfocada en un 
 Este proceso de pruebas se integra en el Modelo en V, un enfoque que relaciona la verificación y la validación con cada fase del desarrollo del software.
 
 <p>
-    <img src="Imagenes/3.png" alt="Config Nano">
+    <img src="Imagenes/1.png" alt="Config Nano">
 </p>
 
 

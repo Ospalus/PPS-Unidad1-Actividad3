@@ -4,5 +4,5 @@ Actividad 3 de la Unidad 1 de Puesta en Producción Segura. Tabajaremos con prue
 ## Objetivos:
 
 - [**Conocer las diferentes pruebas software**](Pruebas.md)
-- **Realizar pruebas para las funciones de una calculadora en Python**
+- [**Realizar pruebas para las funciones de una calculadora en Python**](Realización_pruebas.md)
 
